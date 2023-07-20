@@ -17,10 +17,10 @@ Power on the LED when the button is pressed, and power off the LED when the butt
 
   - When the button is not pressed:
  
-    ![image](Circuit-1)
+    ![image](Circuit-1.png)
  
   - When the button is pressed:
-    ![image](Circuit-1.1)
+    ![image](Circuit-1.1.png)
 
   
 
