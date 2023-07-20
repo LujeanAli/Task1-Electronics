@@ -15,6 +15,15 @@ Power on the LED when the button is pressed, and power off the LED when the butt
 
   ### Circuit:
 
+  - When the button is not pressed:
+ 
+    ![image](Circuit-1)
+ 
+  - When the button is pressed:
+    ![image](Circuit-1.1)
+
+  
+
 
   ### Code:
 
